@@ -1,6 +1,6 @@
 # Nucleotides
 
-**TODO: Add description**
+A task set out during the first Edinburgh Elixir meetup where we solved [this dna parsing problem](http://rosalind.info/problems/dna/)
 
 ## Installation
 
